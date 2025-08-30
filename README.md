@@ -33,16 +33,22 @@
 
 
 <!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
+<div align=center>
 <table align="center">
+
 <tr border="none">
-<img src="./assets/leetcode-profile.png" alt="My LeetCode Profile" width="400" />
+<p align="center">My Coding Profiles</p>
 </tr>
+
 <tr border="none">
-<img src="assets/gfg.png" alt="My GFG profile" width="400"/>
+<img src="./assets/leetcode.png" alt="My LeetCode Profile" width="400" />
+</tr>
+
+<tr border="none">
+<img src="./assets/gfg.png" alt="My GFG Profile" width="400" />
 </tr>
 </table>
+</div>
 
 <!--- stats (end) -->
 
@@ -56,7 +62,7 @@
 
 <tr border="none">
 
-<img src="./assets/badge.png" alt="My LeetCode Profile" width="400" />
+<img src="./assets/badge.png" alt="My LeetCode Badge" width="400" />
 </tr>
 </table>
 </div>
