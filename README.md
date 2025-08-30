@@ -82,7 +82,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="48" height="48" />
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sourcetree.svg" width="48" height="48" />
       <img src="https://www.svgrepo.com/show/384268/augmented-reality-vr-ar.svg" alt="VR Icon" width="60" height="60"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vulkan_API_logo.svg" alt="Vulkan" width="80" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vulkan/vulkan-original.svg" alt="Vulkan" height="48"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg" alt="WebGL" width="48" height="48"/>
       <img src="https://www.svgrepo.com/show/373629/glsl.svg" alt="GLSL" width="48" height="48"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" />
