@@ -17,7 +17,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on development and R& of different topics in **Vue.js, Three js, Webgl, VR, AR**
+- 🔭 I’m currently working on development and R&D of different topics in **Vue.js, Three js, Webgl, VR, AR**
 
 - 🌱 I’m currently working as a Senior Software Engineer at **Enosis Solutions**
 
@@ -41,12 +41,13 @@
 </tr>
 
 <tr border="none">
-<img src="./assets/leetcode.png" alt="My LeetCode Profile" width="400" />
+<img src="./assets/leetcode.png" alt="My LeetCode Profile" width="800" />
 </tr>
 
 <tr border="none">
-<img src="./assets/gfg.png" alt="My GFG Profile" width="400" />
+<img src="./assets/gfg.png" alt="My GFG Profile" width="800" />
 </tr>
+
 </table>
 </div>
 
